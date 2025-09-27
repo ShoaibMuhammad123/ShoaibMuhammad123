@@ -3,10 +3,12 @@
 Welcome to my GitHub profile! I'm a **Data Science enthusiast** passionate about Machine Learning and building machine learning models to solve real-world problems.  
 
 ## 🚀 About Me  
-- 🎓 Currently pursuing a Bachelor's in **Data Science**  
-- 📊 Experienced in **data analysis, visualization, and machine learning**  
-- 💻 Love working with project related to **Predictive Modeling, Customer Segmentation, Data Analysis, Disease Diagnosis and Looker Studio Dashboard for Storytelling**  
-- 🤖 Exploring AI, machine learning, and data-driven decision-making  
+As a passionate Data Science and Machine Learning enthusiast, I specialize in providing solutions for data-related tasks. Whether it's data analysis, building predictive models, customer segmentation, creating dashboards with Looker Studio, or tackling any problem in data science and machine learning, I am dedicated to delivering impactful results.
+
+My expertise includes Python, Scikit-Learn, PyTorch, SQL, Looker Studio, and essential libraries for data preprocessing and visualization.
+
+I am committed to continuous learning and applying advanced techniques to solve real-world problems.
+Let’s connect and start working together!
 
 ## 🛠️ Skills  
 - **Programming Languages:** Python, SQL  
