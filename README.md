@@ -3,25 +3,28 @@
 Welcome to my GitHub profile! I'm a **Data Science enthusiast** passionate about Machine Learning and building machine learning models to solve real-world problems.  
 
 ## 🚀 About Me  
-As a passionate Data Science and Machine Learning enthusiast, I specialize in providing solutions for data-related tasks. Whether it's data analysis, building predictive models, customer segmentation, creating dashboards with Looker Studio, or tackling any problem in data science and machine learning, I am dedicated to delivering impactful results.
+My name is Shoaib Muhammad, and I am currently a 7th-semester Data Science student enrolled at IMSciences. I firmly believe that understanding theoretical concepts alone is not enough. What truly sets me apart is my ability to apply this knowledge to real-world projects for effective problem-solving. This practical approach differentiates me from other students.
 
-My expertise includes Python, Scikit-Learn, PyTorch, SQL, Looker Studio, and essential libraries for data preprocessing and visualization.
+I am working as a Research Intern with the IM Digi Sol Team, where I have been involved for the past six months. This role has provided me with valuable hands-on experience in tackling real-world challenges using data-driven approaches.
 
-I am committed to continuous learning and applying advanced techniques to solve real-world problems.
-Let’s connect and start working together!
+To carry out these tasks, I have expertise in various tools and techniques including:
 
-## 🛠️ Skills  
-- **Programming Languages:** Python, SQL  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Looker Studio, Excel  
-- **Machine Learning:** Scikit-Learn, Pytorch, Supervised and Unsupervised Learning  
+##  SKILLS 
+- **Programming Languages:** Python, SQL
+-  **Machine Learning:** Scikit-Learn, Pytorch, Supervised and Unsupervised Learning
+-  **Deep Learning:** Training a deep learning model on on **Structured Data**( Tabular data) or **Unstructured Data**(Images or Text)
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Looker Studio, Excel
+- **dokers:** for containerization of the model as an image. So, that it will not restrict to a single machine.
 - **Databases:** MySQL  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub
+- I also understand that delivering just the output is not enough. Communicating insights effectively to non-technical stakeholders is equally important. For this purpose, I use **Dashboard** and **reporting** tools such as **Power BI** and **Looker Studio** to present results in a clear and actionable format.
+
 
 ## 📂 Featured Projects  
 Here are some of the projects I’ve worked on:  
-- 🏆 **Customer Segmentation:** Grouping customers based on Recency, Frequency, and Monetary (RFM) analysis  
-- 📊 **Marketing Analytics:** Analyzing customer behavior to optimize marketing campaigns  
-- 🤖 **SmartPhone Price Prediction Web App:** Built a machine learning model for personalized smartphone price prediction based on used preferences. The model Accuracy become 92% and use RandomForest algorithm for this pridiction.  
+- 🏆 **Predicting Student Cheating Using Machine Learning:** I have build a predictive model using Machine Learning that detect **cheater** student.
+- 📊 **Emotion Detection Project:** A deep lerning based model that detect Emotion on any given image weather it is **Angry**, **Sad**, **Happy**, **Disgust**, **Neutral** etc.  
+- 🤖 **SmartPhone Price Prediction Web App:** Built a machine learning model for personalized **smartphone price prediction** based on used preferences. The model **Accuracy become 92%** and use **RandomForest algorithm** for this pridiction.  
 - 📈 **Market Analysis Dashboard:** Created an interactive Looker Studio dashboard for Smartphone Market Analysis.  
 
 
@@ -34,7 +37,7 @@ Here are some of the projects I’ve worked on:
 ## 📫 Contact Me  
 - 📩 **Email:** shoaibmohd9994@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/shoaib9994)  
-- 📝 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 📝 **Portfolio:** [shoaibmuhammad_portfolio.com](https://shoaibmuhammad123.github.io/Portfolio/) 
 
 ---
 
