@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a **Data Science enthusiast** passionate about
 ## 🚀 About Me  
 My name is Shoaib Muhammad, and I am currently a 7th-semester Data Science student enrolled at IMSciences. I firmly believe that understanding theoretical concepts alone is not enough. What truly sets me apart is my ability to apply this knowledge to real-world projects for effective problem-solving. This practical approach differentiates me from other students.
 
-I am working as a Research Intern with the IM Digi Sol Team, where I have been involved for the past six months. This role has provided me with valuable hands-on experience in tackling real-world challenges using data-driven approaches.
 
-To carry out these tasks, I have expertise in various tools and techniques including:
+
+To carry out different tasks related to data science machine learning or deep learning, I have expertise in various tools and techniques including:
 
 ##  SKILLS 
 - **Programming Languages:** Python, SQL
@@ -36,7 +36,7 @@ Here are some of the projects I’ve worked on:
 
 ## 📫 Contact Me  
 - 📩 **Email:** shoaibmohd9994@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/shoaib9994)  
+- 💼 **LinkedIn:** [ShoaibMuhammad_linkedin.com](www.linkedin.com/in/shoaib9994)  
 - 📝 **Portfolio:** [shoaibmuhammad_portfolio.com](https://shoaibmuhammad123.github.io/Portfolio/) 
 
 ---
